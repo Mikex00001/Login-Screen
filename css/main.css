@@ -480,9 +480,13 @@ iframe {
     visibility: visible;
     opacity: 1;
   }
+  .wrap-login100 {
+    margin-top: 0px;
+  }
 }
 @media (max-width: 480px) {
   .wrap-login100 {
+    margin-top: 0px;
     padding-left: 15px;
     padding-right: 15px;
   }
